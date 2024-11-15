@@ -14,7 +14,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você instalou a versão mais recente de `python`
   
 ## ⚠️ Premissas
-O projeto está na versão v1, na mesma trabalhamos apenas com 1 usuário, dessa forma não nos preocuparemos com identificar qual o número da agência e conta bancária.
+O projeto está na versão v1, na mesma trabalhamos apenas com 1 usuário, dessa forma não nos preocuparemos em identificar qual o número da agência e conta bancária.
 
 ## 📝 Requisitos
 ### Operações
