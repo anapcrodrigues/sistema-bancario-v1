@@ -2,6 +2,7 @@
 
 <img src="Savings-bro.png" alt="Mão colocando nota de dinheiro em um cofre no formato de um porquinho redondo e sorridente.">
 
+> Projeto desenvolvido a partir de um desafio do bootcamp NTT DATA - Engenharia de Dados com Python disponível na plataforma [DIO](https://web.dio.me/home).
 ## 🎯 Objetivo geral
 Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
 
