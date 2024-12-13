@@ -42,10 +42,10 @@ O projeto está na versão v1, na mesma trabalhamos apenas com 1 usuário, dessa
 
 ### Funções
 ## Saque
-A funçã osaque deve receber os argumentos apenas por nome (*keyword only*). Sugestão de argumentos: saldo, valor, extrato, limite, número_saques, limite_saques. Sugestão de retorno: saldo e extrato.
+A função saque deve receber os argumentos apenas por nome (*keyword only*). Sugestão de argumentos: saldo, valor, extrato, limite, número_saques, limite_saques. Sugestão de retorno: saldo e extrato.
 
 ## Depósito
-A funçaõ depósito deve receber os argumentos apenas por posição (*positional only*). Sugestão de argumentos: saldo, valor, extrato. Sugestão de retorno: saldo e extrato.
+A função depósito deve receber os argumentos apenas por posição (*positional only*). Sugestão de argumentos: saldo, valor, extrato. Sugestão de retorno: saldo e extrato.
 
 ## Extrato:
 A função extrato deve receber os argumentos por posição e nome (*positional only* e *keyword only*). Argumentos posicionais: saldo, argumentos nomeados: extrato.
